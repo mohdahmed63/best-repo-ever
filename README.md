@@ -1,3 +1,3 @@
 # best-repo-ever
 
-This is file is being modified as part of first commit, please review
+I have replaced this entire line to see how conflicts will be handled in Git on 11/17
